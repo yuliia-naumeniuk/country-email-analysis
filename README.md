@@ -7,7 +7,7 @@ Analyze email marketing activity by country and calculate key engagement metrics
 ## Tools
 SQL, CTE, Joins, Aggregations, Window Functions, Ranking Functions
 
-## Results
+### Results
 - The United States shows the highest account and email activity.
 - Engagement levels vary significantly across countries.
 - Email activity increased from November to December and declined toward February.
