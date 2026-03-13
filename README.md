@@ -1,4 +1,4 @@
-# Country Email Activity Analysis
+# Email Marketing Performance Analysis
 SQL analysis of account and email activity by country with ranking and trend metrics.
 
 ## Project Documentation
