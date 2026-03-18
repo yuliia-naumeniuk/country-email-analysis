@@ -13,4 +13,4 @@ SQL, CTE, Joins, Aggregations, Window Functions, Ranking Functions
 - Email activity increased from November to December and declined toward February.
 
 ## Project Documentation
-[View SQL Queries](https://github.com/yuliia-naumeniuk/email-marketing-performance-analysis/blob/main/email_marketing_analysis.sql](https://docs.google.com/document/d/1ederVrkk1ANMNrWnXvoDWk63hc2GQU8atUhbaivLWbw/edit?usp=sharing)
+[View SQL Queries](https://docs.google.com/document/d/1ederVrkk1ANMNrWnXvoDWk63hc2GQU8atUhbaivLWbw/edit?usp=sharing)
