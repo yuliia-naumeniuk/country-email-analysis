@@ -5,7 +5,7 @@ SQL analysis of account and email activity by country with ranking and trend met
 Analyze email marketing activity by country and calculate key engagement metrics such as account count, sent emails, opens, and visits.
 
 ## Tools
-SQL, CTE, Joins, Aggregations, Window Functions, Ranking Functions
+SQL (CTE, Joins, Aggregations, Window Functions, Ranking Functions)
 
 ## Key Insights
 - The United States shows the highest account and email activity.
